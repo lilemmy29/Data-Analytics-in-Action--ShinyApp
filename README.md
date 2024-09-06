@@ -29,11 +29,11 @@ Clone the Repository:
 Clone this repository to your local machine using:
 
 
-git clone https://github.com/lilemmy29/data-analytics-shiny-app.git
+git clone https://github.com/lilemmy29/Data-Analytics-in-Action--ShinyApp.git
 
 Run the App:
 
-Open the cloned folder in RStudio and run the `app.R` file or simply use the following command in R
+Open the cloned folder in RStudio and run the `shinycodes.R` 
 
 
 
