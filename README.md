@@ -23,18 +23,19 @@ Install R and RStudio (if not already installed):
 In your R console, install the shiny package by running the following command:
 r
 install.packages("shiny")
+
 Clone the Repository:
+
 Clone this repository to your local machine using:
 
-bash
-git clone https://github.com/yourusername/data-analytics-shiny-app.git
+
+git clone https://github.com/lilemmy29/data-analytics-shiny-app.git
 
 Run the App:
 
-Open the cloned folder in RStudio and run the app.R file or simply use the following command in R:
+Open the cloned folder in RStudio and run the `app.R` file or simply use the following command in R
 
-r
-shiny::runApp('path/to/your/app')
+
 
 ## How to Use
 - Choose an Industry: From the sidebar, select one of the four industries (Retail, Healthcare, Finance, Sports).
