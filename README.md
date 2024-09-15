@@ -1,4 +1,4 @@
-# Data-Analytics-in-Action--ShinyApp
+# InsightPro Analytical App
 ## Overview
 This Shiny app demonstrates the power and versatility of data analytics across various industries. It allows users to explore how Descriptive, Predictive, and Prescriptive analytics are applied in fields such as Retail, Healthcare, Finance, and Sports.
 
